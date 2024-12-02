@@ -22,3 +22,13 @@ The data has been taken from Kaggle and the link for it is https://www.kaggle.co
   - Confusion matrix visualization
 - **Visualization**:
   - Plots and charts for data distribution and model evaluation metrics
+ 
+## Libraries Used:
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Scikit-Learn
+  - NTLK
+  - Textacy
+  - Contractions
